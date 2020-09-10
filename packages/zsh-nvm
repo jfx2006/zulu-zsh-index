@@ -1,0 +1,8 @@
+{
+  "name": "zsh-nvm",
+  "description": "Zsh plugin for installing, updating and loading nvm",
+  "author": "jfx2006 <https://github.com/jfx2006",
+  "repository": "https://github.com/lukechilds/zsh-nvm",
+  "type": "plugin",
+  "init": {"zsh-nvm.plugin.zsh": "zsh-nvm.plugin.zsh"}
+}
