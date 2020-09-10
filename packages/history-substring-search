@@ -4,5 +4,5 @@
   "repository": "https://github.com/zsh-users/zsh-history-substring-search",
   "author": "ZSH Users <https://github.com/zsh-users>",
   "type": "plugin",
-  "init": {"zsh-history-substring-search.zsh": "zsh-history-substring-search.zsh"}
+  "init": {"zsh-history-substring-search.zsh": "zsh-history-substring-search.zsh", "zsh-history-substring-search.plugin.zsh": "zsh-history-substring-search.plugin.zsh" }
 }
