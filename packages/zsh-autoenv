@@ -1,0 +1,8 @@
+{
+  "name": "zsh-autoenv",
+  "description": "zsh-autoenv automatically sources (known/whitelisted) .autoenv.zsh files",
+  "author": "jfx2006 <https://github.com/jfx2006",
+  "repository": "https://github.com/Tarrasch/zsh-autoenv",
+  "type": "plugin",
+  "init": {"autoenv.zsh": "autoenv.zsh"}
+}
