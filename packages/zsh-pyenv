@@ -1,0 +1,8 @@
+{
+  "name": "zsh-pyenv",
+  "description": "pyenv aliases - i just package not write",
+  "author": "jfx2006 <https://github.com/jfx2006/zulu-zsh-index",
+  "repository": "https://github.com/mattberther/zsh-pyenv.git",
+  "type": "plugin",
+  "init": {"zsh-pyenv.plugin.zsh": "zsh-pyenv"}
+}
